@@ -1,2 +1,20 @@
-# Titanic
-Aplicando os conceitos de Machine Learning aprendidos em aula desenvolvendo uma aplicação completa utilizando modelos treinados localmente e exibidos via Streamlit.
+# Titanic Machine Learning App
+
+Aplicação de Machine Learning usando Streamlit para prever a sobrevivência de passageiros do Titanic.
+
+## Tecnologias
+- Python
+- Streamlit
+- Scikit-Learn
+- Pandas
+- Joblib
+
+## Como executar
+
+Treinar modelo:
+
+python train.py
+
+Executar aplicação:
+
+streamlit run app.py
